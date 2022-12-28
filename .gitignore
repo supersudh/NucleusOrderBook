@@ -1,0 +1,12 @@
+env/
+firebase-secrets.json
+dump.rdb
+.vscode/
+venv
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+worker.env
+.env
+.elasticbeanstalk

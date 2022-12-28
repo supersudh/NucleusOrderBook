@@ -1,0 +1,6 @@
+env/
+dump.rdb
+venv
+.env
+worker.env
+docker-compose.yml
